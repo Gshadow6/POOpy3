@@ -5,4 +5,3 @@ class Alumno:
         self.__nombre = nom #Un atributo se hace privado con __
         self.__edad = ed
         self.__carrera = carr
-
